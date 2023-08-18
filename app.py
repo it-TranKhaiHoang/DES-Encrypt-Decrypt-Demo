@@ -1,6 +1,5 @@
 import streamlit as st
 from Crypto.Cipher import DES
-from Crypto.Random import get_random_bytes
 
 # Streamlit UI
 st.title("DES Encryption and Decryption Demo")
