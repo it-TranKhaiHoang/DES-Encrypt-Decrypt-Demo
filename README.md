@@ -4,7 +4,7 @@ This is a simple application that demonstrates the encryption and decryption of 
 
 ## Demo URL
 
-You can access the live demo of this application at [trankhaihoang.com](https://trankhaihoang.com). The demo allows you to perform encryption and decryption operations using the DES algorithm.
+You can access the live demo of this application at [trankhaihoang.streamlit.app](https://trankhaihoang.streamlit.app). The demo allows you to perform encryption and decryption operations using the DES algorithm.
 
 
 ## Prerequisites
